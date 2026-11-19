@@ -144,3 +144,8 @@ Para ejecutar las pruebas automatizadas, utilizar `Cmd + U` en Xcode.
 - Añadir ordenación de tareas.
 - Ampliar las pruebas automatizadas.
 - Revisar la accesibilidad, VoiceOver y Dynamic Type.
+
+## Repositorio y Pull Request
+
+- **Repositorio GitHub:** https://github.com/Aferreiro22/MiniTasks
+- **Pull Request:** [Refactor MiniTasks to MVVM architecture](PEGA_AQUI_EL_ENLACE_DE_LA_PR)   https://github.com/Aferreiro22/MiniTasks/pull/1
